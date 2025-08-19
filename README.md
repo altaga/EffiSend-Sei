@@ -227,7 +227,7 @@ All technical implementations for this module are included here.
 
 EffiSend integrates with Li.Fi to provide seamless token swapping directly within the platform. Users can easily exchange between different tokens on Sei—whether converting SEI to USDC for payments or diversifying their portfolio across supported assets.
 
-Our swap functionality supports major tokens on Sei including SEI, USDC, USDT, WBTC, WETH, and FRAX. The system automatically handles token approvals when needed and provides real-time quotes to ensure users get the best rates available.
+Our swap functionality supports major tokens on Sei including SEI, USDC, USDT, etc... The system automatically handles token approvals when needed and provides real-time quotes to ensure users get the best rates available.
 
 ### Key Features:
 
